@@ -1,43 +1,59 @@
 <div align="center">
-  <img src="https://github.com/nmoral/nmoral/blob/main/nicolas.png?raw=true" alt="Nicolas Moral" width="200" class="me" />
-</div>
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/nicolas-moral">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=nmoral&style=flat-square&color=blue" alt=""/>
-</div>
-<div id="title" align="center">
-  <h1>
-    Bienvenue sur ma page Github
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://github.com/nmoral/nmoral/blob/main/nicolas.png?raw=true" alt="Nicolas Moral" width="200" />
+
+  <h1>Nicolas Moral</h1>
+
+  <p><strong>Lead dev PHP/Symfony · Je pense l'architecture, les agents écrivent le code</strong></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/nicolas-moral">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://img.shields.io/badge/Toulouse-Occitanie-555?style=flat-square" alt="Toulouse" />
+  </p>
 </div>
 
-### Mon profil
-- 🐘 Je suis un développeur, majoritairement PHP, même s'il m'arrive de m'aventuré dans l'univers de JavaScript avec beaucoup de plaisir
-- 🧑‍🎓 Quand je ne travaille pas, j'aime découvrir d'autre langage comme python
-- 😎 J'aime me détendre devant un bon film, sur mon vélo ou devant un jeu vidéo
-- ✍️ j'écris des articles de temps en temps sur mes découvertes et sur les bonnes pratiques du développement
+---
 
+### 👋 En bref
 
-### 🛠️ Les langages et frameworks que j'utilise 
+Plus de dix ans de PHP, et une conviction qui s'est imposée à moi : ce que j'aime dans ce métier, ce n'est pas taper du code, c'est **comprendre un projet et préparer son architecture**.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
-</div>
+Aujourd'hui je travaille en **chef d'orchestre** : je n'écris plus le code, je le dirige.
 
+- 🧭 **Specs d'abord** : des issues aux objectifs vérifiables, une règle simple — l'IA ne suppose jamais, elle demande
+- 🧪 **Tests avant tout** : TDD, mutation testing, analyse statique, linter, CI — les garde-fous font la qualité, pas la relecture ligne à ligne
+- 🐳 **Un environnement isolé par issue** : worktree + Docker dédié, nettoyé à la fin
+- 🤝 **Lead dev** : décisions tracées par écrit, stratégie de tests partagée, pas de cloisonnement entre les rôles
 
-<!-- ### 🔥 Quelques statistiques
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmoral&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🌱 Ce qui m'anime
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmoral)](https://github.com/anuraghazra/github-readme-stats) -->
+Rendre la **donnée publique lisible et vérifiable**, avec une traçabilité jusqu'à la source. Construire des outils utiles, avec des gens volontaires, sur des sujets qui ont du sens.
+
+### 🚀 Projets
+
+**[Valeur Verte](https://github.com/nmoral/valeur-verte)** — Régression hédonique pour les artisans RGE, qui mesure la plus-value immobilière d'une rénovation énergétique. Mon premier projet perso mené jusqu'en production.
+
+**[Budget Analyzer](https://github.com/nmoral/budget-analyzer)** — Simulateur du coût réel des recrutements publics (« 1 000 instituteurs, combien par an ? ») à partir de l'open data, pour confronter les programmes au budget de l'État. Python pour agréger les sources, Symfony pour le calcul et le rendu ; TDD, mutation testing et analyse statique au max. *En cours.*
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white" alt="Doctrine" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+### 🚲 Hors du code
+
+Du vélo, des usines démesurées sur Factorio, des constructions sur Minecraft, beaucoup de films et de documentaires. Un passé en bioinformatique que je n'ai jamais vraiment quitté.
+
+Et une phrase tirée de *Gödel, Escher, Bach*, qui me sert de boussole :
+
+> *Chaque étape compte, par définition.*
